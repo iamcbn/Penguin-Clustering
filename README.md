@@ -34,7 +34,7 @@ The dataset contains measurements of penguins, including:
 │── 📜 README.md            # Project overview  
 │── 📜 penguins.csv         # Raw dataset  
 │── 📜 clustering_analysis.ipynb # Jupyter Notebook with code
-|── 📜  Clustering_Antarctic_Penguin_Species.pdf
+|── 📜  Clustering Antarctic Penguin Species.pdf # The full report 
 │── 📂 results              # Visualizations and outputs   
 ```
 
