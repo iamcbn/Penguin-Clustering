@@ -30,7 +30,7 @@ The dataset contains measurements of penguins, including:
 
 ## **Project Structure**  
 ```
-📂 penguin-clustering  
+📂 Penguin-Clustering  
 │── 📜 README.md            # Project overview  
 │── 📜 penguins.csv         # Raw dataset  
 │── 📜 clustering_analysis.ipynb # Jupyter Notebook with code
